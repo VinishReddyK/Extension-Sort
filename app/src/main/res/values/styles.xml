@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Toast Style -->
+    <style name="toastTextStyle" parent="TextAppearance.AppCompat">
+        <item name="stFont">@font/magic</item>
+        <item name="stTextColor">#ff000000</item>
+        <item name="stTextSize">11dp</item>
+        <item name="stIconStart">@mipmap/ic_launcher_round</item>
+    </style>
+
+</resources>
